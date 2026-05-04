@@ -100,7 +100,7 @@ BEGIN
 
 		PRINT '=> Inserting Data Into: bronze.erp_loc_a101';
 		BULK INSERT bronze.erp_loc_a101
-		FROM 'E:\Data Engineering\Projects\datasets\source_erp\LOC_A101.csv'
+		FROM 'E:\Data Engineering\Projects\sql-data-warehouse-project\datasets\source_erp\LOC_A101.csv'
 		WITH (
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
