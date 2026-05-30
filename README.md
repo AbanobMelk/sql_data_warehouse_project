@@ -50,7 +50,7 @@ The data architecture for this project | Medallion Architecture (Bronze, Silver,
 ## 📁 Project Structure
 
 ```
-your-project/
+sql_data_warehouse_project/
 ├── datasets/                             # Raw Data
 │   ├── source_crm/
 │   │   ├── cust_info.csv
