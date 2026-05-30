@@ -61,7 +61,6 @@ your-project/
 │       ├── LOC_A101.csv
 │       └── PX_CAT_G1V2.csv
 ├── docs/                                 # Documents
-│   ├── models/
 │   └── architecture_diagram.drawio.png
 ├── scripts/                              # SQL Scripts
 │   ├── bronze/
